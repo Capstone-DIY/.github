@@ -90,9 +90,11 @@ CC Path:
 
 - Visual Studio Code
 - Node.js
-- Google Cloud App Engine or Google Cloud Compute Engine
+- Express.js
+- Prisma
+- Google Cloud Compute Engine
+- Google Cloud Run
 - Google Cloud Storage
-- Google Cloud SQL
 - Postman
 - Git/Github
 
@@ -151,14 +153,14 @@ MD Path:
 
 2. **Model Management on the Server**
 
-   - Deploy the Docker container using services like Cloud Run or Google Kubernetes Engine (GKE).
+   - Deploy the Docker container using Cloud Run.
    - Use Artifact Registry to store and manage Docker images.
-   - **Monitoring**: Track server performance and resource usage with Cloud Monitoring.
+   - **Monitoring**: Track server performance and resource usage.
    - **Scaling**: Enable auto-scaling to dynamically manage high loads.
 
 3. **API Development**
    - Connect the Docker container to a REST API endpoint.
-   - Secure the API with authentication mechanisms (e.g., OAuth, API Keys) and enforce HTTPS.
+   - Use Firebase for user authentication.
    - Implement logging to track errors and monitor API performance.
 
 ### Mobile Development Path Process
