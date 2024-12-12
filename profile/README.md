@@ -54,7 +54,7 @@ These days, more and more individuals are experiencing emotional challenges such
     <img src="asset/Halaman Penjelasan Singkat-2.png"
         style="margin-right: 10px;"
         width="100" />
-    <img src="asset/Halaman Hasil Sign Up.png"
+    <img src="asset/Halaman Hasil Sign up.png"
         style="margin-right: 10px;"
         width="100" />
     <img src="asset/Halaman Add Diary data Isi.png"
