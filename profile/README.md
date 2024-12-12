@@ -57,13 +57,13 @@ These days, more and more individuals are experiencing emotional challenges such
     <img src="asset/Halaman Hasil Sign Up.png"
         style="margin-right: 10px;"
         width="100" />
-    <img src="asset/Halaman Add Diary data Isi-1.png"
+    <img src="asset/Halaman Add Diary data Isi.png"
         style="margin-right: 10px;"
         width="100" />
     <img src="asset/Halaman Details Diary.png"
         style="margin-right: 10px;"
         width="100" />
-    <img src="asset/Halaman Beranda Diary Historyu.png"
+    <img src="asset/Halaman Beranda Diary History.png"
         style="margin-right: 10px;"
         width="100" />
     <img src="asset/Halaman Statistic.png"
