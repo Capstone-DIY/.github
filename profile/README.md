@@ -4,7 +4,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="130" height="130">
+    <img src="asset/Logo-DIY.png" alt="Logo" width="130" height="130">
   </a>
 
   <h3 align="center">Discover Inner You</h3>
@@ -48,25 +48,25 @@
 These days, more and more individuals are experiencing emotional challenges such as stress and anxiety. However, access to resources that support self-exploration and mental health is still limited. Many people have difficulty in understanding their emotional state due to the lack of tools that can help them recognize and manage their moods independently. Discover Inner You is designed to fill this gap by providing tools that analyze users' feelings based on their daily notes. As such, the app aims to empower users to understand and manage their emotional state, as well as provide recommendations that can support their mental well-being.
 
 <p align="center">
-    <img src="images/mockup/Halaman Pembuka.png"
+    <img src="asset/Halaman Pembuka.png"
         style="margin-right: 10px;"
         width="100" />
-    <img src="images/mockup/Halaman Penjelasan Singkat-2.png"
+    <img src="asset/Halaman Penjelasan Singkat-2.png"
         style="margin-right: 10px;"
         width="100" />
-    <img src="images/mockup/Halaman Hasil Sign Up.png"
+    <img src="asset/Halaman Hasil Sign Up.png"
         style="margin-right: 10px;"
         width="100" />
-    <img src="images/mockup/Halaman Add Diary data Isi-1.png"
+    <img src="asset/Halaman Add Diary data Isi-1.png"
         style="margin-right: 10px;"
         width="100" />
-    <img src="images/mockup/Halaman Details Diary.png"
+    <img src="asset/Halaman Details Diary.png"
         style="margin-right: 10px;"
         width="100" />
-    <img src="images/mockup/Halaman Beranda Diary Historyu.png"
+    <img src="asset/Halaman Beranda Diary Historyu.png"
         style="margin-right: 10px;"
         width="100" />
-    <img src="images/mockup/Halaman Statistic.png"
+    <img src="asset/Halaman Statistic.png"
         style="margin-right: 10px;"
         width="100" />
 </p>
