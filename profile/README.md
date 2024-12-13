@@ -183,7 +183,7 @@ MD Path:
 | :------------------------ | :----: | :------------------------ |
 | Anak Agung Citra Maharani | **ML** | agungcitra0103@gmail.com  |
 | Azhar Albaaqi Fadhullah   | **ML** | azharfadullah@gmail.com   |
-| I Gede Dwiky Prasetya     | **ML** | dwikiyus4@gmail.com       |
+| I Gede Dwiki Yusa Prasetya     | **ML** | dwikiyus4@gmail.com       |
 | Satria Sukma Auraly       | **CC** | satriasauraly@gmail.com   |
 | Elsa Yonata Sugiono       | **CC** | elsayonata@gmail.com      |
 | Kadek Bisma Dharmasena    | **MD** | bisma2412@gmail.com       |
